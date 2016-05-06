@@ -11098,3 +11098,276 @@ Started GET "/assets/port_bg.jpg" for 127.0.0.1 at 2016-05-06 14:12:57 +0800
 
 
 Started GET "/assets/foundation-icons.woff" for 127.0.0.1 at 2016-05-06 14:12:57 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-06 14:17:10 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (92.9ms)
+Completed 200 OK in 178ms (Views: 172.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/custom.self-8b34b62d24156f86dea5742bb4d768c839d3bcedca5ae7d7ee1a7c0ca5277672.css?body=1" for 127.0.0.1 at 2016-05-06 14:17:10 +0800
+
+
+Started GET "/assets/port_bg.jpg" for 127.0.0.1 at 2016-05-06 14:17:10 +0800
+
+
+Started GET "/assets/foundation-icons.woff" for 127.0.0.1 at 2016-05-06 14:17:10 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (30.3ms)
+Completed 200 OK in 118ms (Views: 117.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.self-818f1a3f33b01f42529ab17eb726dadce840febdcade1474f91c90c87874d7a3.css?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/custom.self-7243c46c56b0c12f71dddff9cdcc6d5d9bde2cfd12256f0f2a3ef9a18cd84af2.css?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/foundation-icons.self-c28dac872066d88edaa09e58b8f8637a6c4216c0e74de88ba4537ed279156a41.css?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/normalize.self-04f59fec8725783a0d08327c9c38d82f8f364c62606134256e17a3ba3f1a29f0.css?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/application.self-167193cd81d9330d9ddb5c4ec7b44214fea529aa8a94f3a86e6526e4f652fc02.css?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/foundation.min.self-7ce0cc0e8f15e0fd69b41ff3effa7dca6202d27fc3066b50c50a0d16a46ed685.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/fastclick.self-3e418527b6d1f2c904cfeb196670c1de985cc1d9ab89fc67205acb8dae0ef83a.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/jquery.cookie.self-b6656e5c49d3b7f0f1ddc5a219a391f2d8e6470fb1b91625f5c5f7bfc28e2466.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/jquery.scrollTo.self-6b2d85f0d3cdb24ee67376f1d559e1e8cceeab60f7e375c3d694bfd9d16219f1.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/modernizr.self-b70ec353dab071c99c30dda130c56e57f8f9ca59f43e15840575fea2cea80e7f.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/placeholder.self-72e0e59f325faa480d30c43b0b7619c33cd207d296c79f7eea56c433badf0d41.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/application.self-ccfac2c490cf5b99fe7a37363d929d0c04bcbe45be65829e04012abb6d40dff8.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/image1-41d75e1f6633ce3cd92348f373f9d38c646cacd84afb6f4ba71ee7216f3d9d39.jpg" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/image2-6d0807b6dc1669cfc37b54de5ccad4501d40cb5ce4ddc725aee680fcae66b8a4.jpg" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/port1-2875f189d9e6aacef1ef6d8dadaab3f4512c1d88c34fac72ad48ced495fbb0d2.png" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/port2-19c3b782ab2bb75f518e79d352ce77ad83bce57ef9399f8eedf5f187d63237cc.png" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/port3-351974a4a72ad7e97a37a5855a6d0abf681d3e0ee7eac82ed160afec9879521d.png" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/image3-7be62f90a8305a55f622f0a2beb175123952911051019b0bbb8c5911e9e9a3b7.jpg" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/port4-a5c524d2bbc4c599fcb82652857fbd6d3581410fd9ca49581c5d2c7137b677ff.png" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/port5-31e2ebbd83ce3f4de1c24871ac8998d9dc9f9bc81578b8cac39aabac67f0203f.png" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/port6-0df78c88d2b3f574cc612645068490293954773307ee81dfa2e474315296f2d9.png" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/port7-8b94b09c6e1618e339781a1a2916c5bdeda2f2a03e70b2b4af2af1eec31e3559.png" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/port8-2767a878f1e011c5cd9ce7bc4ca8ef9683102dbc7ff5542eda84ccda0dfbd101.png" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/map-29663a13fd685227a4dcd1b2553b48421638574b585277fe02374f3c8f59e582.png" for 127.0.0.1 at 2016-05-06 14:17:36 +0800
+
+
+Started GET "/assets/port_bg.jpg" for 127.0.0.1 at 2016-05-06 14:17:37 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 41ms (Views: 40.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.self-818f1a3f33b01f42529ab17eb726dadce840febdcade1474f91c90c87874d7a3.css?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/custom.self-7243c46c56b0c12f71dddff9cdcc6d5d9bde2cfd12256f0f2a3ef9a18cd84af2.css?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/foundation-icons.self-c28dac872066d88edaa09e58b8f8637a6c4216c0e74de88ba4537ed279156a41.css?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/application.self-167193cd81d9330d9ddb5c4ec7b44214fea529aa8a94f3a86e6526e4f652fc02.css?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/normalize.self-04f59fec8725783a0d08327c9c38d82f8f364c62606134256e17a3ba3f1a29f0.css?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/foundation.min.self-7ce0cc0e8f15e0fd69b41ff3effa7dca6202d27fc3066b50c50a0d16a46ed685.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/fastclick.self-3e418527b6d1f2c904cfeb196670c1de985cc1d9ab89fc67205acb8dae0ef83a.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/jquery.cookie.self-b6656e5c49d3b7f0f1ddc5a219a391f2d8e6470fb1b91625f5c5f7bfc28e2466.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/jquery.scrollTo.self-6b2d85f0d3cdb24ee67376f1d559e1e8cceeab60f7e375c3d694bfd9d16219f1.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/modernizr.self-b70ec353dab071c99c30dda130c56e57f8f9ca59f43e15840575fea2cea80e7f.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/placeholder.self-72e0e59f325faa480d30c43b0b7619c33cd207d296c79f7eea56c433badf0d41.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/application.self-ccfac2c490cf5b99fe7a37363d929d0c04bcbe45be65829e04012abb6d40dff8.js?body=1" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/image1-41d75e1f6633ce3cd92348f373f9d38c646cacd84afb6f4ba71ee7216f3d9d39.jpg" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/port1-2875f189d9e6aacef1ef6d8dadaab3f4512c1d88c34fac72ad48ced495fbb0d2.png" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/port2-19c3b782ab2bb75f518e79d352ce77ad83bce57ef9399f8eedf5f187d63237cc.png" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/image3-7be62f90a8305a55f622f0a2beb175123952911051019b0bbb8c5911e9e9a3b7.jpg" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/image2-6d0807b6dc1669cfc37b54de5ccad4501d40cb5ce4ddc725aee680fcae66b8a4.jpg" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/port3-351974a4a72ad7e97a37a5855a6d0abf681d3e0ee7eac82ed160afec9879521d.png" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/port4-a5c524d2bbc4c599fcb82652857fbd6d3581410fd9ca49581c5d2c7137b677ff.png" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/port5-31e2ebbd83ce3f4de1c24871ac8998d9dc9f9bc81578b8cac39aabac67f0203f.png" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/port6-0df78c88d2b3f574cc612645068490293954773307ee81dfa2e474315296f2d9.png" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/port7-8b94b09c6e1618e339781a1a2916c5bdeda2f2a03e70b2b4af2af1eec31e3559.png" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/port8-2767a878f1e011c5cd9ce7bc4ca8ef9683102dbc7ff5542eda84ccda0dfbd101.png" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/assets/map-29663a13fd685227a4dcd1b2553b48421638574b585277fe02374f3c8f59e582.png" for 127.0.0.1 at 2016-05-06 14:17:38 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (15.5ms)
+Completed 200 OK in 69ms (Views: 68.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/foundation.self-818f1a3f33b01f42529ab17eb726dadce840febdcade1474f91c90c87874d7a3.css?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/custom.self-fd974b29d790bf3593aea56f266960c5df424f4dc7f8f727143befe94205dc4e.css?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/foundation-icons.self-c28dac872066d88edaa09e58b8f8637a6c4216c0e74de88ba4537ed279156a41.css?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/normalize.self-04f59fec8725783a0d08327c9c38d82f8f364c62606134256e17a3ba3f1a29f0.css?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/application.self-167193cd81d9330d9ddb5c4ec7b44214fea529aa8a94f3a86e6526e4f652fc02.css?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/jquery.self-d03a5518f45df77341bdbe6201ba3bfa547ebba8ed64f0ea56bfa5f96ea7c074.js?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/jquery_ujs.self-8e98a7a072a6cee1372d19fff9ff3e6aa1e39a37d89d6f06861637d061113ee7.js?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/foundation.min.self-7ce0cc0e8f15e0fd69b41ff3effa7dca6202d27fc3066b50c50a0d16a46ed685.js?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/fastclick.self-3e418527b6d1f2c904cfeb196670c1de985cc1d9ab89fc67205acb8dae0ef83a.js?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/jquery.cookie.self-b6656e5c49d3b7f0f1ddc5a219a391f2d8e6470fb1b91625f5c5f7bfc28e2466.js?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/jquery.scrollTo.self-6b2d85f0d3cdb24ee67376f1d559e1e8cceeab60f7e375c3d694bfd9d16219f1.js?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/modernizr.self-b70ec353dab071c99c30dda130c56e57f8f9ca59f43e15840575fea2cea80e7f.js?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/placeholder.self-72e0e59f325faa480d30c43b0b7619c33cd207d296c79f7eea56c433badf0d41.js?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/application.self-ccfac2c490cf5b99fe7a37363d929d0c04bcbe45be65829e04012abb6d40dff8.js?body=1" for 127.0.0.1 at 2016-05-06 14:18:38 +0800
+
+
+Started GET "/assets/image1-41d75e1f6633ce3cd92348f373f9d38c646cacd84afb6f4ba71ee7216f3d9d39.jpg" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
+
+
+Started GET "/assets/port1-2875f189d9e6aacef1ef6d8dadaab3f4512c1d88c34fac72ad48ced495fbb0d2.png" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
+
+
+Started GET "/assets/image2-6d0807b6dc1669cfc37b54de5ccad4501d40cb5ce4ddc725aee680fcae66b8a4.jpg" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
+
+
+Started GET "/assets/port3-351974a4a72ad7e97a37a5855a6d0abf681d3e0ee7eac82ed160afec9879521d.png" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
+
+
+Started GET "/assets/image3-7be62f90a8305a55f622f0a2beb175123952911051019b0bbb8c5911e9e9a3b7.jpg" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
+
+
+Started GET "/assets/port2-19c3b782ab2bb75f518e79d352ce77ad83bce57ef9399f8eedf5f187d63237cc.png" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
+
+
+Started GET "/assets/port4-a5c524d2bbc4c599fcb82652857fbd6d3581410fd9ca49581c5d2c7137b677ff.png" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
+
+
+Started GET "/assets/port5-31e2ebbd83ce3f4de1c24871ac8998d9dc9f9bc81578b8cac39aabac67f0203f.png" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
+
+
+Started GET "/assets/port6-0df78c88d2b3f574cc612645068490293954773307ee81dfa2e474315296f2d9.png" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
+
+
+Started GET "/assets/port7-8b94b09c6e1618e339781a1a2916c5bdeda2f2a03e70b2b4af2af1eec31e3559.png" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
+
+
+Started GET "/assets/port8-2767a878f1e011c5cd9ce7bc4ca8ef9683102dbc7ff5542eda84ccda0dfbd101.png" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
+
+
+Started GET "/assets/map-29663a13fd685227a4dcd1b2553b48421638574b585277fe02374f3c8f59e582.png" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
+
+
+Started GET "/assets/port_bg.jpg" for 127.0.0.1 at 2016-05-06 14:18:39 +0800
