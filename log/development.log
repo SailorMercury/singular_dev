@@ -12213,3 +12213,19 @@ Started GET "/assets/application.self-79a300d240bbf145c9af961805bc87f18e9f73bd1c
 
 
 Started GET "/assets/logo-99f0fa1590b25620708541046fc8b45c04940fe17e1000236f2b57a32174d3e4.jpg" for 127.0.0.1 at 2016-05-10 12:21:55 +0800
+
+
+Started GET "/" for 127.0.0.1 at 2016-05-12 14:59:39 +0800
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (1.4ms)
+DEPRECATION WARNING on line 81 of /home/mercury/.rvm/gems/ruby-2.2.2/gems/foundation-rails-6.2.1.0/vendor/assets/scss/components/_button-group.scss: #{} interpolation near operators will be simplified
+in a future version of Sass. To preserve the current behavior, use quotes:
+
+  unquote('#{$buttongroup-spacing} == "0"')
+
+You can use the sass-convert command to automatically fix most cases.
+
+
+  Rendered layouts/_header.html.erb (67.4ms)
+  Rendered layouts/_footer.html.erb (0.5ms)
+Completed 200 OK in 18658ms (Views: 18651.3ms | ActiveRecord: 0.0ms)
